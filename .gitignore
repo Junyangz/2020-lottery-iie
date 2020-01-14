@@ -1,2 +1,6 @@
 .idea
 node_modules
+.venv
+.vscode
+sign_server
+reward-pictures
