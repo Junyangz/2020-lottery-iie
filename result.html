@@ -76,7 +76,7 @@
             let results = []
             for(let nameList of str_results) {
                 let temp = JSON.parse(nameList)
-                temp = temp.map(item => {return item.replace('<br/>', ' ')})
+                // temp = temp.map(item => {return item.replace('<br/>', ' ')})
                 results.push(temp)
             }
             
