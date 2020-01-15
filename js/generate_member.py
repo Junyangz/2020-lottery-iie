@@ -1,6 +1,5 @@
 import json
-from absl import app
-from absl import flags
+from absl import app, flags
 
 flags.DEFINE_integer('number', 200, 'The member number for raffle')
 
