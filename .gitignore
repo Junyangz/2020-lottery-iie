@@ -4,3 +4,4 @@ node_modules
 .vscode
 sign_server
 reward-pictures
+update-member.sh
