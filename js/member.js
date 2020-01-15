@@ -878,45 +878,5 @@ var member = [
   {
     "phone": "No.220",
     "name": "No.220"
-  },
-  {
-    "phone": "No.221",
-    "name": "No.221"
-  },
-  {
-    "phone": "No.222",
-    "name": "No.222"
-  },
-  {
-    "phone": "No.223",
-    "name": "No.223"
-  },
-  {
-    "phone": "No.224",
-    "name": "No.224"
-  },
-  {
-    "phone": "No.225",
-    "name": "No.225"
-  },
-  {
-    "phone": "No.226",
-    "name": "No.226"
-  },
-  {
-    "phone": "No.227",
-    "name": "No.227"
-  },
-  {
-    "phone": "No.228",
-    "name": "No.228"
-  },
-  {
-    "phone": "No.229",
-    "name": "No.229"
-  },
-  {
-    "phone": "No.230",
-    "name": "No.230"
   }
 ]
